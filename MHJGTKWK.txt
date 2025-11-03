@@ -1,0 +1,8 @@
+Prio: Urgent
+
+Name: Joe
+
+Submitted: 2025-11-03T13:20:23.987-05:00
+
+Description:
+Desktop hardware damage suspected after sun exposure; IT needs to assess and advise on repairs or replacement.
